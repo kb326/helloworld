@@ -25,9 +25,9 @@ pythonのスクリプトの拡張子は（.py）にするのが一般的。
 問14
 【apple = 100, orange = 60】
 apple*3 + orange*2 の結果を調べる。
->>apple * 3 + orange * 2
->>420
+＞apple * 3 + orange * 2
+＞420
 また、orange = 120　となったらどうなるか。
->>orange = 120  //普通に定義しなおせばいい
->>apple * 3 + orange * 2
->>540
+＞orange = 120  //普通に定義しなおせばいい
+＞apple * 3 + orange * 2
+＞540
